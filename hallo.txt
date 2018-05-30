@@ -1,6 +1,1 @@
 Hallo
-Test
-Test2
-Add Kloppo
-Neuer Master
-Für die Pull Request
